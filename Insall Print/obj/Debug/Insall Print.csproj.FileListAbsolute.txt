@@ -1,0 +1,36 @@
+C:\Users\SC\source\repos\Insall Print\Insall Print\bin\Debug\Insall Print.exe
+C:\Users\SC\source\repos\Insall Print\Insall Print\bin\Debug\Insall Print.pdb
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall Print.csprojAssemblyReference.cache
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall_Print.Form1.resources
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall_Print.Properties.Resources.resources
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.GenerateResource.cache
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.CoreCompileInputs.cache
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall Print.exe
+C:\Users\SC\source\repos\Insall Print\Insall Print\obj\Debug\Insall Print.pdb
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\bin\Debug\Insall Print.exe
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\bin\Debug\Insall Print.pdb
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall Print.csprojAssemblyReference.cache
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall_Print.Form1.resources
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall_Print.Properties.Resources.resources
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.GenerateResource.cache
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.CoreCompileInputs.cache
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall Print.exe
+C:\Users\SC\Desktop\Silent Print\Insall Print\Insall Print\obj\Debug\Insall Print.pdb
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\bin\Debug\Insall Print.exe
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\bin\Debug\Insall Print.pdb
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall Print.csprojAssemblyReference.cache
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall_Print.Form1.resources
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall_Print.Properties.Resources.resources
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.GenerateResource.cache
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.CoreCompileInputs.cache
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall Print.exe
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print Old\Insall Print\Insall Print\obj\Debug\Insall Print.pdb
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\bin\Debug\Insall Print.exe
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\bin\Debug\Insall Print.pdb
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall Print.csprojAssemblyReference.cache
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall_Print.Form1.resources
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall_Print.Properties.Resources.resources
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.GenerateResource.cache
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall Print.csproj.CoreCompileInputs.cache
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall Print.exe
+C:\Users\SC\Documents\____Zero One Project\Sutindo\Silent Print New3\Insall Print\Insall Print\obj\Debug\Insall Print.pdb
